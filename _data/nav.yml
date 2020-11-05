@@ -1,0 +1,8 @@
+- name: "Contact"
+  link: "contact"
+
+- name: "Curriculum Vitae"
+  link: "Curriculum Vitae.pdf"
+
+- name: "About"
+  link: "index"
